@@ -35,6 +35,6 @@ pip install jupyter
 3. Run the following command to start Jupyter Notebook:
 jupyter notebook
 4. This will open the Jupyter Notebook interface in your web browser.
-5. In the interface, navigate to the directory where `your_notebook.ipynb` is located and click on the notebook file to open it.
+5. In the interface, navigate to the directory where `Heart Failure Prediction.ipynb` is located and click on the notebook file to open it.
 6. You can now run the notebook
 Note: Make sure you have all the necessary dependencies and libraries installed to run the notebook successfully.

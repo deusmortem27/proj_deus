@@ -28,10 +28,10 @@ The dataset we have used is from Kaggle, and this dataset contains 13 features t
 13. Death Event: Whether the patient died during the follow-up period (1 if yes, 0 if no).
 
 ## Running the Notebook
-To run the Jupyter Notebook file (`your_notebook.ipynb`), follow these steps:
+To run the Jupyter Notebook file (`Heart Failure Prediction.ipynb`), follow these steps:
 1. Make sure you have Jupyter Notebook installed. If not, you can install it using the following command:
 pip install jupyter
-2. Open a terminal or command prompt and navigate to the directory where `your_notebook.ipynb` is located.
+2. Open a terminal or command prompt and navigate to the directory where `Heart Failure Prediction.ipynb` is located.
 3. Run the following command to start Jupyter Notebook:
 jupyter notebook
 4. This will open the Jupyter Notebook interface in your web browser.

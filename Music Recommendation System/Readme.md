@@ -35,6 +35,9 @@ To use the Music Recommendation System:
 5. Explore the generated music recommendations and enjoy personalized music suggestions.
 6. Integrate the recommendation system into your own user-friendly interface or use the existing interface provided in the project.
 
+## Dataset
+The dataset used is the Million Songs Dataset. Due to it's large size it's not uploaded here. Please download it and then run the notebooks
+
 ## Contributing
 
 Contributions to the Music Recommendation System project are welcome. If you want to contribute, please follow these guidelines:
